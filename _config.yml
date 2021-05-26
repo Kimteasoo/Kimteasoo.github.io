@@ -1,8 +1,8 @@
 # Setup
 title: Dark Poole
-url: https://getpoole.com
+url: https://kimteasoo.github.io/
 paginate: 1
-baseurl: ""
+baseurl: /kimteasoo
 permalink: pretty
 
 # Gems
